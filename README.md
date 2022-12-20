@@ -1,4 +1,4 @@
-# the_final_task_for_stepik
+# final_stepik
 1. тесты запускаются из корневой директории, это директория the_final_task_for_stepik
 2. тесты можно запустить командой pytest -v --tb=line --language=en -m need_review 
 3. для добавления стабильности тестам исмользуется команда --reruns:
